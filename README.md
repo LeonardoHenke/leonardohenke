@@ -41,6 +41,6 @@ Sou um desenvolvedor focado em automação, integração de sistemas e soluçõe
 ---
 
 
-<img src="https://raw.githubusercontent.com/LeonardoHenke/LeonardoHenke/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/LeonardoHenke/LeonardoHenke/blob/output/github-snake-dark.svg)
 
 
