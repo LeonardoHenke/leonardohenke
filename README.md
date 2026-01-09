@@ -7,7 +7,7 @@
 # Leonardo Henke <a href="https://www.linkedin.com/in/leonardo-henke/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25" alt="Linkedin" /></a>
           
 
-Sou um desenvolvedor focado em automação, integração de sistemas e soluções práticas para o dia a dia, com experiência em ambientes corporativos, aplicando soluções personalizadas para cada necessidade.
+Sou um desenvolvedor especializado em automação, integração de sistemas e soluções práticas para o dia a dia, com experiência em ambientes corporativos, aplicando soluções personalizadas para cada necessidade.
 
 
 ## 🛠️ Tecnologias e Ferramentas
