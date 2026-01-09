@@ -16,6 +16,7 @@ Sou um desenvolvedor focado em automação, integração de sistemas e soluçõe
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=fastapi&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
@@ -28,7 +29,7 @@ Sou um desenvolvedor focado em automação, integração de sistemas e soluçõe
   Utilização de **Pandas** e **Openpyxl** para processar grandes volumes de dados, análise e geração de relatórios. Assim como o envio dos mesmos via email e/ou integração destes com demais sistemas.
 
 - 🔐 **Integrações com APIs**  
-  Experiência com integração de sistemas, consumo e criação de APIs através de ferramentas como **Request**, **FastAPI** e **FlaskAPI**. Obtendo ou adicionando informações conforme a necessidade.
+  Experiência com integração de sistemas, consumo e criação de APIs através de ferramentas como **Request**, **FastAPI** e **Flask**. Obtendo ou adicionando informações conforme a necessidade.
 
 - 🗃️ **Banco de Dados e SQL**  
   Consultas e scripts otimizados em **MySQL**, **SQL Server** e **Oracle**, com foco em performance e clareza.
