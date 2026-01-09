@@ -28,7 +28,7 @@ Sou um desenvolvedor focado em automação, integração de sistemas e soluçõe
   Utilização de **Pandas** e **Openpyxl** para processar grandes volumes de dados, análise e geração de relatórios. Assim como o envio dos mesmos via email e/ou integração destes com demais sistemas.
 
 - 🔐 **Integrações com APIs**  
-  Experiência com integração de sistemas, consumo e criação de APIs via **Request** e **FastAPI**. Obtendo ou adicionando informações conforme a necessidade.
+  Experiência com integração de sistemas, consumo e criação de APIs através de ferramentas como **Request**, **FastAPI** e **FlaskAPI**. Obtendo ou adicionando informações conforme a necessidade.
 
 - 🗃️ **Banco de Dados e SQL**  
   Consultas e scripts otimizados em **MySQL**, **SQL Server** e **Oracle**, com foco em performance e clareza.
