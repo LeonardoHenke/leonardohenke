@@ -7,12 +7,11 @@
 # Leonardo Henke <a href="https://www.linkedin.com/in/leonardo-henke/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25" alt="Linkedin" /></a>
           
 
-Sou um desenvolvedor especializado em automação, integração de sistemas e soluções práticas para o dia a dia, com experiência em ambientes corporativos, aplicando soluções personalizadas para cada necessidade.
-
+Sou desenvolvedor especializado em automação de processos, desenvolvimento de sistemas web e integração de sistemas, com experiência em ambientes corporativos. Atuo na criação de soluções práticas e personalizadas, utilizando tecnologias como Python e Django, com foco em eficiência, organização do código e aderência às necessidades do negócio.
 
 ## 🛠️ Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
@@ -35,7 +34,7 @@ Sou um desenvolvedor especializado em automação, integração de sistemas e so
   Consultas e scripts otimizados em **MySQL**, **SQL Server** e **Oracle**, com foco em performance e clareza.
 
 - 🌐 **Desenvolvimento Web**  
-  Projetos com **PHP** e foco em backend, especialmente em sistemas corporativos e rotinas internas.
+  Desenvolvimento de sistemas web utilizando **Django**, com foco em backend, estruturação de projetos escaláveis, autenticação de usuários, regras de negócio, integração com bancos de dados e consumo de APIs. Experiência no desenvolvimento de aplicações com ênfase em organização de código e manutenção a longo prazo.
 
 
 
